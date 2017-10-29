@@ -1,2 +1,106 @@
-# 103StacksAndStarterKits
-More Starter Kits Than You Should Ever Need --- "Thanks Geritol"
+
+## www.CodeStarterKits.com<br>
+
+
+-React, Flux               https://github.com/christianalfoni/flux-react-boilerplate <br>
+-Meteor                    https://github.com/matteodem/meteor-boilerplate <br>
+-Fabric, Blockchain        https://github.com/IBM-Blockchain/fabric-boilerplate <br>
+-Mern                      https://github.com/Hashnode/mern-starter <br>
+-Gulp                      https://github.com/cferdinandi/gulp-boilerplate <br>
+-Fastshell                 https://github.com/HosseinKarami/fastshell <br>
+-Grunt, Email              https://github.com/dwightjack/grunt-email-boilerplate <br>
+-NW.js                     https://github.com/szwacz/nw-boilerplate <br>
+-React, Redux, Foundation       https://github.com/timaschew/react-redux-foundation-boilerplate <br>
+-Ionic, Ionic2                  https://github.com/marcoturi/ionic2-boilerplate <br>
+-Chopstick                      https://github.com/getchopstick/chopstick-boilerplate <br>
+-React, React Native, Relay     https://github.com/codefoundries/UniversalRelayBoilerplate <br>
+-Marionette                     https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate <br>
+-Svg                            https://github.com/una/svg-icon-system-boilerplate <br>
+-Phalcon                        https://github.com/redound/phalcon-rest-boilerplate <br>
+-Sublime                        https://github.com/sloria/sublime-html5-boilerplate <br>
+-Webdriver, Cucumber            https://github.com/webdriverio/cucumber-boilerplate <br>
+-Dojo                           https://github.com/csnover/dojo-boilerplate <br>
+-Server, Config, Nginx          https://github.com/h5bp/server-configs-nginx <br>
+-Threejs, WebVR, VR             https://github.com/borismus/webvr-boilerplate <br>
+-Drupal              https://github.com/Lullabot/drupal-boilerplate <br>
+-Google App Engine   https://github.com/coto/gae-boilerplate <br>
+-Flask, Python       https://github.com/mjhea0/flask-boilerplate <br>
+-React, MobX, Babel  https://github.com/mobxjs/mobx-react-boilerplate <br>
+-HTML, HTML5         https://github.com/h5bp/html5-boilerplate <br>
+-Angular             https://github.com/ngbp/ngbp <br>
+-Email               https://github.com/seanpowell/Email-Boilerplate <br>
+-React Native, Meteor    https://github.com/spencercarli/react-native-meteor-boilerplate <br>
+-Magento, Bootstrap      https://github.com/webcomm/magento-boilerplate <br>
+-Server, Config          https://github.com/h5bp/server-configs <br>
+-Webpack, React, Redux   https://github.com/jpsierens/webpack-react-redux <br>
+-Preact                https://github.com/developit/preact-boilerplate <br>
+-Android               https://github.com/ribot/android-boilerplate <br>
+-Android               https://github.com/hitherejoe/Android-Boilerplate <br>
+-SaSS                  https://github.com/HugoGiraudel/sass-boilerplate <br>
+-WordPress             https://github.com/DevinVinson/WordPress-Plugin-Boilerplate <br>
+-jQuery                https://github.com/jquery-boilerplate/jquery-boilerplate <br>
+-MelonJS               https://github.com/melonjs/boilerplate <br>
+-Spectacle             https://github.com/FormidableLabs/spectacle-boilerplate <br>
+-Backbone              https://github.com/tbranyen/backbone-boilerplate <br>
+-Electron              https://github.com/szwacz/electron-boilerplate <br>
+-HTML, CSS             https://github.com/h5bp/html5-boilerplate <br>
+-React                 https://github.com/react-boilerplate/react-boilerplate <br>
+-Drupal, Elm           https://github.com/Gizra/drupal-elm-starter <br>
+-Drupal, Drush, Composer          https://github.com/liip/bund-drupal-starterkit <br>
+-React, Redux                     https://github.com/ctrlplusb/react-universally <br>
+-React, Slingshot, Redux          https://github.com/coryhouse/react-slingshot <br>
+-React, Apollo, Express.js, Redux       https://github.com/saikat/react-apollo-starter-kit <br>
+-Angular, Angular2     https://github.com/scotch-io/angular2-starter-basic <br>
+-C#, CQRS              https://github.com/edumentab/cqrs-starter-kit <br>
+-ASP.net, Babel, React, Redux           https://github.com/kriasoft/aspnet-starter-kit <br>
+-Element UI            https://github.com/ElementUI/element-starter <br>
+-React Native          https://github.com/mcnamee/react-native-starter-app <br>
+-Polymer               https://github.com/StartPolymer/polymer-starter-kit-plus <br>
+-Gulp                  https://github.com/carloscuesta/starterkit <br>
+-d3                    https://github.com/1wheel/d3-starterkit <br>
+-MBrace                https://github.com/mbraceproject/MBrace.StarterKit <br>
+-React, Relay, Reindex            https://github.com/reindexio/reindex-starter-kit-react <br>
+-Rails, Spree, React, Redux       https://github.com/spark-solutions/spark-starter-kit <br>
+-SAP, Internet of things          https://github.com/SAP/iot-starterkit <br>
+-MJML                             https://github.com/epayet/mjml-starter-kit <br>
+-Emacs                            https://github.com/eschulte/emacs24-starter-kit <br>
+-Typeplate, Typography            https://github.com/typeplate/starter-kit <br>
+-React, Redux, PluralSight        https://github.com/coryhouse/pluralsight-redux-starter <br>
+-Durandal                         https://github.com/BlueSpire/Durandal/tree/master/platforms/HTML/StarterKit <br>
+-Fire TV                          https://github.com/amzn/web-app-starter-kit-for-fire-tv <br>
+-Gulp, LESS, Bootstrap            https://github.com/scotch-io/gulp-and-less-starter-kit <br>
+-React, Redux, Uniloc             https://github.com/unicorn-standard/starter-kit <br>
+-React, Flux                      https://github.com/coryhouse/react-flux-starter-kit <br>
+-Lavarel, Vue.js                  https://github.com/codecasts/spa-starter-kit <br>
+-Yii, Yii2, PHP        https://github.com/trntv/yii2-starter-kit <br>
+-Design, HTML, CSS     https://github.com/salesforce-ux/design-system-starter-kit <br>
+-HTML, CSS             https://github.com/google/web-starter-kit <br>
+-Babel, Chai, Yeoman   https://github.com/kriasoft/babel-starter-kit <br>
+-Emacs                 https://github.com/technomancy/emacs-starter-kit <br>
+-Gauntlt               https://github.com/gauntlt/gauntlt-starter-kit <br>
+-Emberjs               https://github.com/emberjs/starter-kit <br>
+-Relay, GraphQL        https://github.com/relayjs/relay-starter-kit <br>
+-Polymer               https://github.com/PolymerElements/polymer-starter-kit <br>
+-Focusjs               https://github.com/KleeGroup/focus-starter-kit <br>
+-React Native, Meteor  https://github.com/meteor-factory/react-native-meteor-starter <br>
+-Meteor                https://github.com/rgoomar/meteor-starterkit <br>
+-Meteor, React          https://github.com/themeteorchef/base <br>
+-Meteor                https://github.com/yogiben/meteor-starter <br>
+-Meteor, React         https://github.com/apollographql/meteor-starter-kit <br>
+-Django                https://github.com/fasouto/django-starter-template <br>
+-Django, Angular2      https://github.com/aswinkp/django-ng2-starter <br>
+-Django                https://github.com/DrkSephy/django-hackathon-starter <br>
+-Go, Relay, GraphQL    https://github.com/sogko/golang-relay-starter-kit <br>
+-Go                    https://github.com/qiangxue/golang-restful-starter-kit <br>
+-Go, React, Redux      https://github.com/olebedev/go-starter-kit <br>
+-Express.js, MongoDB, Passport.js, Jade      https://github.com/aredo/express4-bootstrap-starter <br>
+-Express.js, React, Node.js                  https://github.com/trutoo/trutoo-starter-kit <br>
+-Express.js, Babel, Jest                     https://github.com/vmasto/express-babel <br>
+-Node.js, MongoDB, Hackathon                 https://github.com/sahat/hackathon-starter <br>
+-Angular, Angular2, Typescript, Karma, Protractor        https://github.com/AngularClass/angular2-webpack-starter <br>
+-Angular, Angular1                           https://github.com/angular/angular-seed <br>
+-React, Express, GraphQL, Node.js            https://github.com/kriasoft/react-starter-kit <br>
+-Rails, Angular, Postgres                    https://github.com/svkanoria/rails-app-starter-kit <br>
+-React, Rails                                https://github.com/elierotenberg/react-rails-starterkit <br>
+-Rails, Rails4, Bootstrap, Devise            https://github.com/starterkits/rails4-starterkit <br>
+-React, Redux                                https://github.com/davezuko/react-redux-starter-kit <br>
